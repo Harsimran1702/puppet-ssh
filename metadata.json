@@ -1,0 +1,15 @@
+{
+  "name": "harsimran-ssh",
+  "version": "0.1.0",
+  "author": "Harsimran Singh <fakemail1702@gmail.com>",
+  "summary": "This module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Harsimran1702/puppet-ssh",
+  "project_page": "https://github.com/Harsimran1702/puppet-ssh",
+  "issues_url": "https://github.com/Harsimran1702/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
